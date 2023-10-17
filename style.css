@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(40, 40, 40);
+    color: rgb(215, 215, 215);
+
+    display: grid;
+    grid-template-rows: 10% 90%;
+    grid-template-columns: 100vh;
+}
+
+.divs{
+    height: 100px;
+    width: 50%;
+}
